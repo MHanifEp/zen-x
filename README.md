@@ -1,4 +1,4 @@
 # zen-x
-programming for learning @squest
+programming for learning @zenius x
 
 coding & anu
