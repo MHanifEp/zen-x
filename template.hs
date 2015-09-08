@@ -2,7 +2,7 @@ module Template where
 
 import Data.List
 
--- 1.a
+nganu x = x*x + x
 
 null 'x = x
 
