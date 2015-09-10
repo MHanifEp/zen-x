@@ -4,6 +4,7 @@ import Data.List
 
 nganu x = (x*x) + x
 
+
 null 'x = x
 
 -- nganu
@@ -238,4 +239,4 @@ replicate' x = x
 --nganu anuan
 
 -- anu nganu anu /?
---haven't finished yets (ofc dude)
+--haven't finished yet (ofc dude)
