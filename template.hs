@@ -14,8 +14,6 @@ take 'x = x
 
 
 
-
-<<<<<<< HEAD
 -- ndewe
 
 take' x = x
@@ -249,11 +247,3 @@ replicate' x = x
 
 -- anu nganu anu /?
 --haven't finished yets (ofc dude)
-=======
-
--- nganu
-
--- haven't finished yet (ofc dude)
-
---nganu
->>>>>>> origin/master
