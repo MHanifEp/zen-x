@@ -10,14 +10,6 @@ null 'x = x
 
 take 'x = x
 
--- nganu
-
-
-
--- ndewe
-
-take' x = x
-
 --nganu anuan
 
 drop' x = x
