@@ -2,12 +2,11 @@ module Template where
 
 import Data.List
 
+
 nganu x = (x*x) + x
 
 
 null' x = x
-  | x == [] = True
-  | otherwise = False
 
 -- nganu
 
