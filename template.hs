@@ -3,12 +3,11 @@ module Template where
 import Data.List
 
 
-nganu x = (x*x) + x
+null' x
+  | x == [] = True
+  | otherwise = False
 
-
-null' x = x
-
--- nganu
+-- au dah
 
 take' x = x
 
@@ -18,11 +17,9 @@ drop' x = x
 
 --nganu anuan
 
-fst' x = x
+fst' (c, d) = c
 
---nganu anuan
-
-snd' x = x
+snd' (c, d) = d
 
 --nganu anuan
 
