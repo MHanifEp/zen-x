@@ -5,7 +5,7 @@ import Data.List
 
 null' x
   | x == [] = True
-  | otherwise = False
+  | x == _ = False
 
 -- au dah
 
